@@ -1,0 +1,6 @@
+{
+  "name": "cjs-version",
+  "version": "1.0.0",
+  "description": "Calculator using CommonJS",
+  "main": "app.js"
+}

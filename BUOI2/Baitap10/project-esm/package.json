@@ -1,0 +1,10 @@
+{
+  "name": "project-esm",
+  "version": "1.0.0",
+  "description": "Order processing system using ES Module",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
