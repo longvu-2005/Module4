@@ -1,0 +1,7 @@
+{
+  "name": "esm-version",
+  "version": "1.0.0",
+  "description": "Calculator using ES Module",
+  "type": "module",
+  "main": "app.js"
+}
