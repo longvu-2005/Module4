@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-route-chaining-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating route chaining with app.route() for Task API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

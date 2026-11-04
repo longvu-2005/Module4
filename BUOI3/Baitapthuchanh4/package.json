@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-custom-middleware-lab",
+  "version": "1.0.0",
+  "description": "Custom middleware lab with global logger and local checkAuth",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-express-basic-routing",
+  "version": "1.0.0",
+  "description": "Basic routing with Express for Bookstore API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
