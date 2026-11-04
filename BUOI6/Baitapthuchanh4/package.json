@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-mongoose-intro-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating Mongoose query filters using \$in and boolean operators",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed:movies": "node scripts/seedMovies.js",
+    "query:movies": "node scripts/queryMovies.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.1"
+  }
+}

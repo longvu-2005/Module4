@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-mongoose-intro-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating Mongoose queries using Dot Notation and \$gt operator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "query:users": "node scripts/queryUsers.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.1"
+  }
+}

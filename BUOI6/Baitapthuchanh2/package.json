@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-mongoose-intro-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating Mongoose connection and User insertion using insertMany",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed:users": "node scripts/seedUsers.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.1"
+  }
+}

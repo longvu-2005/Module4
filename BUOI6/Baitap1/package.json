@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-mongoose-validation-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating Mongoose Schema validation rules and timestamps in Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
