@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-newman-testing-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating automated API testing using Newman and HTML reports",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test:api": "newman run postman/Product_API_Collection.json -e postman/Local_Environment.json --reporters cli,htmlextra --reporter-htmlextra-export reports/report.html"
+  },
+  "devDependencies": {
+    "newman": "^6.1.0",
+    "newman-reporter-htmlextra": "^1.22.1"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

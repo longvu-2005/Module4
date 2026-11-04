@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-header-versioning-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating API Header Versioning and Deprecation in Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

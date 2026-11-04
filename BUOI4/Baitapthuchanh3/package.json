@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-error-status-codes-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating correct HTTP status codes (400, 422, 409, 201) in Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

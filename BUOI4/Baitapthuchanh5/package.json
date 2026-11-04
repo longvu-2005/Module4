@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-uri-versioning-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating URI Versioning (v1 and v2) with a single shared data source in Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

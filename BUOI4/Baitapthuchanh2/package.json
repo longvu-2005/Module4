@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-standardized-response-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating standardized JSON response formatting with helper utility functions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
