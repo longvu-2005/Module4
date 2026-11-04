@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-sequelize-intro-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating Sequelize connection, environment variables, and Book model mapping",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1"
+  }
+}

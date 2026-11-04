@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-sequelize-crud-lab",
+  "version": "1.0.0",
+  "description": "Lab demonstrating Sequelize CRUD operations without Express",
+  "main": "crud.js",
+  "scripts": {
+    "start": "node crud.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1"
+  }
+}
